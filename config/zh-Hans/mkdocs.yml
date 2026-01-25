@@ -21,7 +21,6 @@ nav:
   - 首页:
     - 时间线: index.md
     - 标签: tags.md
-    - 存档:
 
   - 地区:
     - 所有: regions.md
