@@ -13,8 +13,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-08-14 ~ 18 | [Bal & Lindy Vintage Festival](bal-n-lindy-vintage-festival-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Arezzo&city=Castiglion%20Fiorentino&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Aug | [Bal & Lindy Vintage Festival](bal-n-lindy-vintage-festival.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Arezzo&city=Castiglion%20Fiorentino&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -22,15 +22,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-05-02 ~ 04 | [Brescia Balboa Series - May](brescia-balboa-series-may-2025.md) |  |
-| 2025-04-04 ~ 06 | [Brescia Balboa Series - Apr](brescia-balboa-series-apr-2025.md) |  |
-| 2025-03-07 ~ 09 | [Brescia Balboa Series - Mar](brescia-balboa-series-mar-2025.md) |  |
-| 2025-01-31 ~ 02-02 | [Brescia Balboa Series - Feb](brescia-balboa-series-feb-2025.md) |  |
-| 2025-01-03 ~ 05 | [Brescia Balboa Series - Jan](brescia-balboa-series-jan-2025.md) |  |
-| 2024-11-01 ~ 03 | [Brescia Balboa Series - Nov](brescia-balboa-series-nov-2024.md) |  |
-| 2024-10-04 ~ 06 | [Brescia Balboa Series - Oct](brescia-balboa-series-oct-2024.md) |  |
-| 2024-08-23 ~ 25 | [Balboario](balboario-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Brescia&city=Brescia&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Aug | [Balboario](balboario.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Brescia&city=Brescia&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -38,8 +31,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-09-12 ~ 15 | [Sicily Swing Fest](sicily-swing-fest-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Catania&city=Catania&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Sep | [Sicily Swing Fest](sicily-swing-fest.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Catania&city=Catania&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -47,8 +40,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-01-03 ~ 06 | [Keep On Swingin’](keep-on-swingin-2025.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Florence&city=Florence&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Jan | [Keep On Swingin’](keep-on-swingin.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Florence&city=Florence&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -58,8 +51,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-08-18 ~ 26 | [Policoro in Swing](policoro-in-swing-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Matera&city=Policoro&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Aug | [Policoro in Swing](policoro-in-swing.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Matera&city=Policoro&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -67,9 +60,9 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-01-24 ~ 26 | [Milan Balboa Weekend](milan-balboa-weekend-2025.md) |  |
-| 2024-10-11 ~ 13 | [Swing’n’Milan](swing-n-milan-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Milan&city=Milan&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Jan | [Milan Balboa Weekend](milan-balboa-weekend.md) |  |
+| Oct | [Swing’n’Milan](swing-n-milan.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Milan&city=Milan&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -79,9 +72,9 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-01-17 ~ 19 | [Tuscany Balboa Weekend](tuscany-balboa-weekend-2025.md) |  |
-| 2025-01-10 ~ 12 | [Crazy Blues](crazy-blues-2025.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Pistoia&city=Montecatini%20Terme&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Jan | [Crazy Blues](crazy-blues.md) |  |
+| Jan | [Tuscany Balboa Weekend](tuscany-balboa-weekend.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Pistoia&city=Montecatini%20Terme&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -89,10 +82,10 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-03-14 ~ 16 | [Roma Balboa Weekend](roma-balboa-weekend-2025.md) |  |
-| 2025-02-07 ~ 09 | [SwingInRoma](swing-in-roma-2025.md) |  |
-| 2024-09-20 ~ 22 | [Swingala](swingala-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Rome&city=Rome&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Feb | [SwingInRoma](swing-in-roma.md) |  |
+| Mar | [Roma Balboa Weekend](roma-balboa-weekend.md) |  |
+| Sep | [Swingala](swingala.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Rome&city=Rome&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -100,8 +93,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-05-29 ~ 06-02 | [Sunny Slide Swing Fest](sunny-slide-swing-fest-2025.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Silvi%20Marina&city=Silvi%20Marina&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| May | [Sunny Slide Swing Fest](sunny-slide-swing-fest.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Silvi%20Marina&city=Silvi%20Marina&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -109,8 +102,8 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-07-31 ~ 08-05 | [Swing in the Amalfi Coast](swing-in-the-amalfi-coast-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Tramonti&city=Tramonti&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Jul | [Swing in the Amalfi Coast](swing-in-the-amalfi-coast.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Tramonti&city=Tramonti&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -118,9 +111,9 @@ description: "Swing Dance events in Italy (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-04-04 ~ 06 | [Swing Train Festival](swing-train-festival-2025.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fit%5D%20%3CName%3E&region=it&province=Turin&city=Turin&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Apr | [Swing Train Festival](swing-train-festival.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fit%5D%20%3CName%3E&region=it&province=Turin&city=Turin&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
-[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bit%5D%20%3CName%3E&region=it&province=&city=&org_id=2025){ .md-button target='_blank' }
+[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bit%5D%20%3CName%3E&region=it&province=&city=&org_id=2026){ .md-button target='_blank' }

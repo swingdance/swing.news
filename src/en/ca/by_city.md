@@ -13,9 +13,9 @@ description: "Swing Dance events in Canada (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-09-26 ~ 29 | [Lindy Harvest](lindy-harvest-2024.md) |  |
-| 2024-07-19 ~ 21 | [Stardust Festival](stardust-festival-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=Alberta&city=Edmonton&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Jul | [Stardust Festival](stardust-festival.md) |  |
+| Sep | [Lindy Harvest](lindy-harvest.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=Alberta&city=Edmonton&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -25,17 +25,17 @@ description: "Swing Dance events in Canada (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-10-18 ~ 20 | [Vancouver Balboa Mini Fest](vancouver-balboa-mini-fest-2024.md) |  |
-| 2024-08-30 ~ 09-02 | [Rhythm City Mess Around](rhythm-city-mess-around-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Vancouver&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Aug | [Rhythm City Mess Around](rhythm-city-mess-around.md) |  |
+| Oct | [Vancouver Balboa Mini Fest](vancouver-balboa-mini-fest.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Vancouver&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=victoria></a>Victoria { #victoria }
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-05-17 ~ 19 | [Victoria Lindy Exchange](victoria-lindy-exchange-2025.md) |  |
-| 2024-11-09 ~ 10 | [Capital City Stomp](capital-city-stomp-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Victoria&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| May | [Victoria Lindy Exchange](victoria-lindy-exchange.md) |  |
+| Nov | [Capital City Stomp](capital-city-stomp.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Victoria&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -45,9 +45,9 @@ description: "Swing Dance events in Canada (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-10-25 ~ 27 | [Cat’s Corner Exchange](cats-corner-exchange-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=Quebec&city=Montreal&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Oct | [Cat’s Corner Exchange](cats-corner-exchange.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=Quebec&city=Montreal&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
-[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bca%5D%20%3CName%3E&region=ca&province=&city=&org_id=2025){ .md-button target='_blank' }
+[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bca%5D%20%3CName%3E&region=ca&province=&city=&org_id=2026){ .md-button target='_blank' }

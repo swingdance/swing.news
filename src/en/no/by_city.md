@@ -11,9 +11,9 @@ description: "Swing Dance events in Norway (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-02-07 ~ 09 | [Scandinavian Shuffle](scandinavian-shuffle-2025.md) |  |
-| 2024-10-17 ~ 20 | [Swing Brother, Swing!](swing-brother-swing-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fno%5D%20%3CName%3E&region=no&province=Bergen&city=Bergen&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Feb | [Scandinavian Shuffle](scandinavian-shuffle.md) |  |
+| Oct | [Swing Brother, Swing!](swing-brother-swing.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fno%5D%20%3CName%3E&region=no&province=Bergen&city=Bergen&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -21,8 +21,8 @@ description: "Swing Dance events in Norway (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2024-07-17 ~ 21 | [Boogie Feet's Festival](boogie-feets-festival-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fno%5D%20%3CName%3E&region=no&province=Dombaas&city=Dombaas&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Jul | [Boogie Feet's Festival](boogie-feets-festival.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fno%5D%20%3CName%3E&region=no&province=Dombaas&city=Dombaas&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -30,11 +30,11 @@ description: "Swing Dance events in Norway (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-02-20 ~ 23 | [Winter Jump](winter-jump-2025.md) |  |
-| 2024-10-04 ~ 06 | [Oslo Balboa Weekend](oslo-balboa-weekend-2024.md) |  |
-| 2024-09-06 ~ 08 | [O’slow](o-slow-2024.md) |  |
-| 2024-08-24 ~ 25 | [Slow Balboa Boost](slow-balboa-boost-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fno%5D%20%3CName%3E&region=no&province=Oslo&city=Oslo&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Feb | [Winter Jump](winter-jump.md) |  |
+| Aug | [Slow Balboa Boost](slow-balboa-boost.md) |  |
+| Sep | [O’slow](o-slow.md) |  |
+| Oct | [Oslo Balboa Weekend](oslo-balboa-weekend.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fno%5D%20%3CName%3E&region=no&province=Oslo&city=Oslo&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -42,10 +42,10 @@ description: "Swing Dance events in Norway (Grouped by City)."
 
 | Date | Event | |
 | --- | --- | --- |
-| 2025-04-25 ~ 27 | [Bal’heim](bal-heim-2025.md) |  |
-| 2024-10-18 ~ 20 | [Vintage Swing Night](vintage-swing-night-2024.md) |  |
-| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fno%5D%20%3CName%3E&region=no&province=Trondheim&city=Trondheim&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| Apr | [Bal’heim](bal-heim.md) |  |
+| Oct | [Vintage Swing Night](vintage-swing-night.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fno%5D%20%3CName%3E&region=no&province=Trondheim&city=Trondheim&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
-[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bno%5D%20%3CName%3E&region=no&province=&city=&org_id=2025){ .md-button target='_blank' }
+[Submit Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bno%5D%20%3CName%3E&region=no&province=&city=&org_id=2026){ .md-button target='_blank' }

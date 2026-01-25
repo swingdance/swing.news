@@ -11,9 +11,8 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-04-04 ~ 06 | [Jurassic Bal](jurassic-bal-2025.md) |  |
-| 2024-03-08 ~ 10 | [Jurassic Bal](jurassic-bal-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Canberra&city=Canberra&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 四月 | [Jurassic Bal](jurassic-bal.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Canberra&city=Canberra&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -23,8 +22,8 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-08-30 ~ 09-01 | [Sydney Lindy Exchange](sydney-lindy-exchange-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=New%20South%20Wales&city=Sydney&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [Sydney Lindy Exchange](sydney-lindy-exchange.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=New%20South%20Wales&city=Sydney&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -34,16 +33,16 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-27 ~ 29 | [Brisbane Balboa Weekend](brisbane-balboa-weekend-2024.md) |  |
-| 2024-05-31 ~ 06-02 | [Brisbane Swing Thing](brisbane-swing-thing-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Queensland&city=Brisbane&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 五月 | [Brisbane Swing Thing](brisbane-swing-thing.md) |  |
+| 九月 | [Brisbane Balboa Weekend](brisbane-balboa-weekend.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Queensland&city=Brisbane&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=gold-coast></a>黃金海岸 { #gold-coast }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-07-26 ~ 28 | [Gold Coast Lindy Fest](gold-coast-lindy-fest-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Queensland&city=Gold%20Coast&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 七月 | [Gold Coast Lindy Fest](gold-coast-lindy-fest.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Queensland&city=Gold%20Coast&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -53,8 +52,8 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-01-24 ~ 27 | [The Adelaide Lindy Exchange](the-adelaide-lindy-exchange-2025.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=South%20Australia&city=Adelaide&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 一月 | [The Adelaide Lindy Exchange](the-adelaide-lindy-exchange.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=South%20Australia&city=Adelaide&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -64,8 +63,8 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-07-05 ~ 07 | [Winter Swing Festival](winter-swing-festival-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Tasmania&city=Hobart&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 七月 | [Winter Swing Festival](winter-swing-festival.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Tasmania&city=Hobart&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -75,11 +74,11 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-11-30 ~ 12-01 | [Remy & Ramona Weekend](remy-n-ramona-weekend-2024.md) |  |
-| 2024-11-21 ~ 24 | [Melbourne Lindy Exchange](melbourne-lindy-exchange-2024.md) |  |
-| 2024-10-26 ~ 26 | [Lindy Rovale](lindy-rovale-2024.md) |  |
-| 2024-09-13 ~ 14 | [Spring Mini-Blues Weekend](spring-mini-blues-weekend-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Victoria&city=Melbourne&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Spring Mini-Blues Weekend](spring-mini-blues-weekend.md) |  |
+| 十月 | [Lindy Rovale](lindy-rovale.md) |  |
+| 十一月 | [Melbourne Lindy Exchange](melbourne-lindy-exchange.md) |  |
+| 十一月 | [Remy & Ramona Weekend](remy-n-ramona-weekend.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Victoria&city=Melbourne&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -89,16 +88,16 @@ description: "在澳大利亚举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-20 ~ 23 | [Boogie Down South](boogie-down-south-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Western%20Australia&city=Margaret%20River&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Boogie Down South](boogie-down-south.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Western%20Australia&city=Margaret%20River&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=perth></a>珀斯 { #perth }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-04-24 ~ 28 | [Hullabaloo](hullabaloo-2025.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fau%5D%20%3CName%3E&region=au&province=Western%20Australia&city=Perth&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 四月 | [Hullabaloo](hullabaloo.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fau%5D%20%3CName%3E&region=au&province=Western%20Australia&city=Perth&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
-[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bau%5D%20%3CName%3E&region=au&province=&city=&org_id=2025){ .md-button target='_blank' }
+[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bau%5D%20%3CName%3E&region=au&province=&city=&org_id=2026){ .md-button target='_blank' }

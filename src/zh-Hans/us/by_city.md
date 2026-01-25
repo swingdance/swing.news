@@ -13,8 +13,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-08-16 ~ 18 | [Summer Swing Fest](summer-swing-fest-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Arizona&city=Mesa&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [Summer Swing Fest](summer-swing-fest.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Arizona&city=Mesa&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -24,17 +24,16 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-01-23 ~ 26 | [California Balboa Classic](california-balboa-classic-2025.md) |  |
-| 2024-08-30 ~ 09-02 | [Camp Hollywood](camp-hollywood-2024.md) |  |
-| 2024-01-12 ~ 14 | [California Balboa Classic](california-balboa-classic-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=California&city=Los%20Angeles&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 一月 | [California Balboa Classic](california-balboa-classic.md) |  |
+| 八月 | [Camp Hollywood](camp-hollywood.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=California&city=Los%20Angeles&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=san-diego></a>圣地亚哥 { #san-diego }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-06-20 ~ 22 | [San Diego Balboa and Lindy Exchange](san-diego-balboa-and-lindy-exchange-2025.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=California&city=San%20Diego&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 六月 | [San Diego Balboa and Lindy Exchange](san-diego-balboa-and-lindy-exchange.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=California&city=San%20Diego&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -44,10 +43,10 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-11-22 ~ 24 | [Hot Jazz Jamboree](hot-jazz-jamboree-2024.md) |  |
-| 2024-09-13 ~ 16 | [Hot Night Fusion Weekend](hot-night-fusion-weekend-2024.md) |  |
-| 2024-09-13 ~ 16 | [Lindy on the Rocks](lindy-on-the-rocks-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Colorado&city=Denver&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Hot Night Fusion Weekend](hot-night-fusion-weekend.md) |  |
+| 九月 | [Lindy on the Rocks](lindy-on-the-rocks.md) |  |
+| 十一月 | [Hot Jazz Jamboree](hot-jazz-jamboree.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Colorado&city=Denver&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -57,15 +56,15 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-25 ~ 27 | [Bubble City Bash](bubble-city-bash-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Champaign&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十月 | [Bubble City Bash](bubble-city-bash.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Champaign&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=chicago></a>芝加哥 { #chicago }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-27 ~ 29 | [Great Lakes Balboa Escape](great-lakes-balboa-escape-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Chicago&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Great Lakes Balboa Escape](great-lakes-balboa-escape.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Illinois&city=Chicago&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -75,15 +74,15 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-05-30 ~ 06-01 | [Back Home Again](back-home-again-2025.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Indiana&city=Indianapolis&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 五月 | [Back Home Again](back-home-again.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Indiana&city=Indianapolis&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=west-lafayette></a>西拉斐特 { #west-lafayette }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-11 ~ 13 | [Whistle Stop](whistle-stop-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Indiana&city=West%20Lafayette&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十月 | [Whistle Stop](whistle-stop.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Indiana&city=West%20Lafayette&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -93,8 +92,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-08-23 ~ 25 | [The Uptown Swingout](the-uptown-swingout-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Minnesota&city=Minneapolis&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [The Uptown Swingout](the-uptown-swingout.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Minnesota&city=Minneapolis&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -104,8 +103,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-03 ~ 06 | [STL Getdown](stl-getdown-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Missouri&city=St.%20Louis&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十月 | [STL Getdown](stl-getdown.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Missouri&city=St.%20Louis&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -115,8 +114,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-06 ~ 08 | [Cowtown Jamborama](cowtown-jamborama-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Nebraska&city=Omaha&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Cowtown Jamborama](cowtown-jamborama.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Nebraska&city=Omaha&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -126,8 +125,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-08-21 ~ 24 | [Swing Out New Hampshire](swing-out-new-hampshire-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=New%20Hampshire&city=Hebron&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [Swing Out New Hampshire](swing-out-new-hampshire.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=New%20Hampshire&city=Hebron&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -137,8 +136,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-11-08 ~ 10 | [Breaking Bal: Swing & Blues Weekend](breaking-bal-swing-n-blues-weekend-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=New%20Mexico&city=Santa%20Fe&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十一月 | [Breaking Bal: Swing & Blues Weekend](breaking-bal-swing-n-blues-weekend.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=New%20Mexico&city=Santa%20Fe&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -148,25 +147,25 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-06 ~ 08 | [Rhythm Shuffle](rhythm-shuffle-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=Buffalo&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Rhythm Shuffle](rhythm-shuffle.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=Buffalo&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=new-york-city></a>纽约市 { #new-york-city }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-18 ~ 20 | [The American Lindy Hop Championships](the-american-lindy-hop-championships-2024.md) |  |
-| 2024-09-27 ~ 29 | [Express Track Blues](express-track-blues-2024.md) |  |
-| 2024-09-20 ~ 22 | [New York Lindy Exchange](new-york-lindy-exchange-2024.md) |  |
-| 2024-04-01 ~ 07 | [Bal Week](bal-week-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 四月 | [Bal Week](bal-week.md) |  |
+| 九月 | [Express Track Blues](express-track-blues.md) |  |
+| 九月 | [New York Lindy Exchange](new-york-lindy-exchange.md) |  |
+| 十月 | [The American Lindy Hop Championships](the-american-lindy-hop-championships.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=rochester></a>罗切斯特 { #rochester }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-11-15 ~ 17 | [Stompology](stompology-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=Rochester&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十一月 | [Stompology](stompology.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=New%20York&city=Rochester&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -176,8 +175,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-07-19 ~ 21 | [Flying Home](flying-home-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=North%20Carolina&city=Durham&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 七月 | [Flying Home](flying-home.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=North%20Carolina&city=Durham&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -187,8 +186,8 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-08-01 ~ 04 | [Cincy Hop](cincy-hop-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Ohio&city=Cincinnati&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [Cincy Hop](cincy-hop.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Ohio&city=Cincinnati&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -198,9 +197,9 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-04 ~ 06 | [Blues Muse](blues-muse-2024.md) |  |
-| 2024-08-02 ~ 04 | [Rittenhopalooza](rittenhopalooza-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Pennsylvania&city=Philadelphia&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [Rittenhopalooza](rittenhopalooza.md) |  |
+| 十月 | [Blues Muse](blues-muse.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Pennsylvania&city=Philadelphia&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -210,23 +209,23 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-02-14 ~ 16 | [Hot Rhythm Holiday](hot-rhythm-holiday-2025.md) |  |
-| 2024-11-14 ~ 17 | [Austin Lindy Exchange](austin-lindy-exchange-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Austin&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 二月 | [Hot Rhythm Holiday](hot-rhythm-holiday.md) |  |
+| 十一月 | [Austin Lindy Exchange](austin-lindy-exchange.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Austin&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=dallas></a>达拉斯 { #dallas }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-27 ~ 29 | [Blues Fusion DFW](blues-fusion-dfw-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Dallas&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 九月 | [Blues Fusion DFW](blues-fusion-dfw.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Dallas&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=houston></a>休斯顿 { #houston }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-03-13 ~ 16 | [Lindyfest](lindyfest-2025.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Houston&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 三月 | [Lindyfest](lindyfest.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Texas&city=Houston&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -236,9 +235,9 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-12-28 ~ 2025-01-01 | [Stormy Weather Jazz Festival](stormy-weather-jazz-festival-2024.md) |  |
-| 2024-10-25 ~ 28 | [Emerald City Blues Festival](emerald-city-blues-festival-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Washington&city=Seattle&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十月 | [Emerald City Blues Festival](emerald-city-blues-festival.md) |  |
+| 十二月 | [Stormy Weather Jazz Festival](stormy-weather-jazz-festival.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Washington&city=Seattle&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -246,9 +245,9 @@ description: "在美国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-11-15 ~ 17 | [Stardust Slow Balboa Weekend](stardust-slow-balboa-weekend-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fus%5D%20%3CName%3E&region=us&province=Washington%20D.C.&city=Washington%20D.C.&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十一月 | [Stardust Slow Balboa Weekend](stardust-slow-balboa-weekend.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fus%5D%20%3CName%3E&region=us&province=Washington%20D.C.&city=Washington%20D.C.&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
-[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=&city=&org_id=2025){ .md-button target='_blank' }
+[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=&city=&org_id=2026){ .md-button target='_blank' }

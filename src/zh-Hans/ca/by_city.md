@@ -13,9 +13,9 @@ description: "在加拿大举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-09-26 ~ 29 | [Lindy Harvest](lindy-harvest-2024.md) |  |
-| 2024-07-19 ~ 21 | [Stardust Festival](stardust-festival-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=Alberta&city=Edmonton&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 七月 | [Stardust Festival](stardust-festival.md) |  |
+| 九月 | [Lindy Harvest](lindy-harvest.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=Alberta&city=Edmonton&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -25,17 +25,17 @@ description: "在加拿大举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-18 ~ 20 | [Vancouver Balboa Mini Fest](vancouver-balboa-mini-fest-2024.md) |  |
-| 2024-08-30 ~ 09-02 | [Rhythm City Mess Around](rhythm-city-mess-around-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Vancouver&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 八月 | [Rhythm City Mess Around](rhythm-city-mess-around.md) |  |
+| 十月 | [Vancouver Balboa Mini Fest](vancouver-balboa-mini-fest.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Vancouver&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=victoria></a>维多利亚 { #victoria }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2025-05-17 ~ 19 | [Victoria Lindy Exchange](victoria-lindy-exchange-2025.md) |  |
-| 2024-11-09 ~ 10 | [Capital City Stomp](capital-city-stomp-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Victoria&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 五月 | [Victoria Lindy Exchange](victoria-lindy-exchange.md) |  |
+| 十一月 | [Capital City Stomp](capital-city-stomp.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=British%20Columbia&city=Victoria&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
@@ -45,9 +45,9 @@ description: "在加拿大举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 2024-10-25 ~ 27 | [Cat’s Corner Exchange](cats-corner-exchange-2024.md) |  |
-| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2025%2Fca%5D%20%3CName%3E&region=ca&province=Quebec&city=Montreal&org_id=&date_starts=2025-&date_ends=2025-){ target='_blank' }
+| 十月 | [Cat’s Corner Exchange](cats-corner-exchange.md) |  |
+| [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fca%5D%20%3CName%3E&region=ca&province=Quebec&city=Montreal&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 
-[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bca%5D%20%3CName%3E&region=ca&province=&city=&org_id=2025){ .md-button target='_blank' }
+[添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bca%5D%20%3CName%3E&region=ca&province=&city=&org_id=2026){ .md-button target='_blank' }
