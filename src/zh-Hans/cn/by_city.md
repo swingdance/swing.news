@@ -58,13 +58,14 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 五月 | [Canton Swing Festival](canton-swing-festival.md) | 粤色摇摆 |
+| 2026-03-06 ~ 08 | [Canton Swing Festival](canton-swing-festival.md) | 粤色摇摆 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Guangdong&city=Guangzhou&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ### <a id=shenzhen></a>深圳 { #shenzhen }
 
 | 日期 | 活动 | |
 | --- | --- | --- |
+| 2026-01-16 ~ 18 | [Down South Camp Meeting](down-south-camp-meeting.md) |  |
 | 2026-03-13 ~ 15 | [Groove the Bluesy Bay](groove-the-bluesy-bay.md) | 湾区布鲁斯节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Guangdong&city=Shenzhen&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
@@ -87,7 +88,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 五月 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
+| 2026-05-15 ~ 17 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Jiangsu&city=Nanjing&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
@@ -107,11 +108,11 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 二月 | [All Balboa Exchange](all-balboa-exchange.md) |  |
+| 2026-03-06 ~ 08 | [All Balboa Exchange](all-balboa-exchange.md) |  |
 | 四月 | [Balboa Spring Camp](balboa-spring-camp.md) |  |
 | 四月 | [Shanghai Blues Camp](shanghai-blues-camp.md) | 上海布鲁斯训练营 |
 | 五月 | [Jumpin' Swing](jumpin-swing.md) |  |
-| 五月 | [Jumpin’ Swing](jumping-swing.md) |  |
+| 2026-05-01 ~ 03 | [Baliday](baliday.md) |  |
 | 六月 | [Balboa Festival](balboa-festival.md) |  |
 | 六月 | [Jump for Joy](jump-for-joy.md) |  |
 | 七月 | [Balboa Festival Shanghai](balboa-festival-shanghai.md) |  |
@@ -119,7 +120,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 | 八月 | [Swing Feast](swing-feast.md) | 摇摆盛宴 |
 | 九月 | [Swing Paramount](swing-paramount.md) | 摇摆百乐门 |
 | 九月 | [Women's Jazzination](womens-jazzination.md) | 爵了姐妹 |
-| 十月 | [Shanghai Balboa Weekend](shanghai-balboa-weekend.md) |  |
+| 2026-10-02 ~ 04 | [Shanghai Balboa Weekend](shanghai-balboa-weekend.md) |  |
 | 十二月 | [Shanghai Lindy Festival](shanghai-lindy-festival.md) | 上海林迪舞节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Shanghai&city=Shanghai&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
@@ -131,7 +132,7 @@ description: "在中国举办的摇摆舞活动（以城市划分）。"
 
 | 日期 | 活动 | |
 | --- | --- | --- |
-| 四月 | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
+| 2026-04-10 ~ 12 | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Sichuan&city=Chengdu&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---

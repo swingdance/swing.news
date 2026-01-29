@@ -11,13 +11,13 @@ description: "Swing Dance events in China (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 |  | [Beijing](by_city.md#beijing) | [Beijing Balboa Travel](beijing-balboa-travel.md) | 北京巴尔博亚之旅 |
+| 01-16 ~ 18 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Down South Camp Meeting](down-south-camp-meeting.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-01-&date_ends=2026-01-){ target='_blank' }
 
 ## Feb
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-|  | [Shanghai](by_city.md#shanghai) | [All Balboa Exchange](all-balboa-exchange.md) |  |
 |  | [Tianjin](by_city.md#tianjin) | [It's Solo King](its-solo-king.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-02-&date_ends=2026-02-){ target='_blank' }
 
@@ -25,6 +25,8 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
+| 03-06 ~ 08 | [Shanghai](by_city.md#shanghai) | [All Balboa Exchange](all-balboa-exchange.md) |  |
+| 03-06 ~ 08 | [Guangdong](by_city.md#guangdong) • Guangzhou | [Canton Swing Festival](canton-swing-festival.md) | 粤色摇摆 |
 | 03-13 ~ 15 | [Guangdong](by_city.md#guangdong) • Shenzhen | [Groove the Bluesy Bay](groove-the-bluesy-bay.md) | 湾区布鲁斯节 |
 | 03-20 ~ 22 | [Chongqing](by_city.md#chongqing) | [Lindy Hotpot](lindy-hotpot.md) | 火锅林迪节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-03-&date_ends=2026-03-){ target='_blank' }
@@ -34,8 +36,8 @@ description: "Swing Dance events in China (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 |  | [Shanghai](by_city.md#shanghai) | [Balboa Spring Camp](balboa-spring-camp.md) |  |
-|  | [Sichuan](by_city.md#sichuan) • Chengdu | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
 |  | [Shanghai](by_city.md#shanghai) | [Shanghai Blues Camp](shanghai-blues-camp.md) | 上海布鲁斯训练营 |
+| 04-10 ~ 12 | [Sichuan](by_city.md#sichuan) • Chengdu | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-04-&date_ends=2026-04-){ target='_blank' }
 
 ## May
@@ -44,10 +46,9 @@ description: "Swing Dance events in China (Timeline)."
 | --- | --- | --- | --- |
 |  | [Beijing](by_city.md#beijing) | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 |  | [Beijing](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
-|  | [Guangdong](by_city.md#guangdong) • Guangzhou | [Canton Swing Festival](canton-swing-festival.md) | 粤色摇摆 |
 |  | [Shanghai](by_city.md#shanghai) | [Jumpin' Swing](jumpin-swing.md) |  |
-|  | [Shanghai](by_city.md#shanghai) | [Jumpin’ Swing](jumping-swing.md) |  |
-|  | [Jiangsu](by_city.md#jiangsu) • Nanjing | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
+| 05-01 ~ 03 | [Shanghai](by_city.md#shanghai) | [Baliday](baliday.md) |  |
+| 05-15 ~ 17 | [Jiangsu](by_city.md#jiangsu) • Nanjing | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-05-&date_ends=2026-05-){ target='_blank' }
 
 ## Jun
@@ -96,8 +97,8 @@ description: "Swing Dance events in China (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 |  | [Guangdong](by_city.md#guangdong) • Foshan | [Hop the Bay](hop-the-bay.md) | 湾区摇摆大会 |
-|  | [Shanghai](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend.md) |  |
 |  | [Tianjin](by_city.md#tianjin) | [Swing to the Stars](swing-to-the-stars.md) | 天津林迪舞节 |
+| 10-02 ~ 04 | [Shanghai](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-10-&date_ends=2026-10-){ target='_blank' }
 
 ## Nov

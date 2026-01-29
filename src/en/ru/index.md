@@ -6,6 +6,13 @@ description: "Swing Dance events in Russia (Timeline)."
 # Russia
 
 
+## Feb
+
+| Date | City | Event | |
+| --- | --- | --- | --- |
+| 02-20 ~ 23 | [St. Petersburg](by_city.md#st.-petersburg) | [Fast Pete](fast-pete.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fru%5D%20%3CName%3E&region=ru&province=&city=&org_id=&date_starts=2026-02-&date_ends=2026-02-){ target='_blank' }
+
 ## Jul
 
 | Date | City | Event | |
@@ -17,5 +24,5 @@ description: "Swing Dance events in Russia (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-|  | [Moscow](by_city.md#moscow) | [Moscow Comes Around](moscow-comes-around.md) |  |
+| 09-11 ~ 13 | [Moscow](by_city.md#moscow) | [Moscow Comes Around](moscow-comes-around.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fru%5D%20%3CName%3E&region=ru&province=&city=&org_id=&date_starts=2026-09-&date_ends=2026-09-){ target='_blank' }

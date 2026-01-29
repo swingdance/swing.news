@@ -102,18 +102,19 @@ nav:
         - Host Cities: cn/host_cities.md
         - Collected Events:
           - cn/beijing-balboa-travel.md
-          - cn/all-balboa-exchange.md
+          - cn/down-south-camp-meeting.md
           - cn/its-solo-king.md
+          - cn/all-balboa-exchange.md
+          - cn/canton-swing-festival.md
           - cn/groove-the-bluesy-bay.md
           - cn/lindy-hotpot.md
           - cn/balboa-spring-camp.md
-          - cn/bouncy-chengdu.md
           - cn/shanghai-blues-camp.md
+          - cn/bouncy-chengdu.md
           - cn/beijing-balboa-fever.md
           - cn/camp-california-weekend.md
-          - cn/canton-swing-festival.md
           - cn/jumpin-swing.md
-          - cn/jumping-swing.md
+          - cn/baliday.md
           - cn/nanjing-lindy-festival.md
           - cn/balboa-festival.md
           - cn/dragon-boat-swing-camp.md
@@ -133,8 +134,8 @@ nav:
           - cn/swing-paramount.md
           - cn/womens-jazzination.md
           - cn/hop-the-bay.md
-          - cn/shanghai-balboa-weekend.md
           - cn/swing-to-the-stars.md
+          - cn/shanghai-balboa-weekend.md
           - cn/swingtime-ball.md
           - cn/foshan-x-korea-exchange.md
           - cn/shanghai-lindy-festival.md
@@ -392,6 +393,7 @@ nav:
         - Events by City: ru/by_city.md
         - Host Cities: ru/host_cities.md
         - Collected Events:
+          - ru/fast-pete.md
           - ru/balboa-dacha.md
           - ru/moscow-comes-around.md
       - Sweden:

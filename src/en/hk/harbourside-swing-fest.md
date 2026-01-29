@@ -1,11 +1,13 @@
 ---
 title: Harbourside Swing Fest
-description: ""
+subtitle: HSF
+description: "2026-04-24 ~ 2026-04-26"
 ---
 
 # Harbourside Swing Fest 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 港畔摇摆节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04-24 ~ 2026-04-26  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 !!! info "Organizer"
@@ -19,10 +21,11 @@ description: ""
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/BrtaRGLzJ-M-7Fi4DBX6gg){ target='_blank' }
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest){ target='_blank' }
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/hk/harbourside-swing-fest.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -30,7 +33,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-12-20 12:58 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:48 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

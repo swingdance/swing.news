@@ -11,13 +11,13 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 |  | [北京](by_city.md#beijing) | [Beijing Balboa Travel](beijing-balboa-travel.md) | 北京巴尔博亚之旅 |
+| 01-16 ~ 18 | [广东](by_city.md#guangdong) • 深圳 | [Down South Camp Meeting](down-south-camp-meeting.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-01-&date_ends=2026-01-){ target='_blank' }
 
 ## 二月
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-|  | [上海](by_city.md#shanghai) | [All Balboa Exchange](all-balboa-exchange.md) |  |
 |  | [天津](by_city.md#tianjin) | [It's Solo King](its-solo-king.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-02-&date_ends=2026-02-){ target='_blank' }
 
@@ -25,6 +25,8 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
+| 03-06 ~ 08 | [上海](by_city.md#shanghai) | [All Balboa Exchange](all-balboa-exchange.md) |  |
+| 03-06 ~ 08 | [广东](by_city.md#guangdong) • 广州 | [Canton Swing Festival](canton-swing-festival.md) | 粤色摇摆 |
 | 03-13 ~ 15 | [广东](by_city.md#guangdong) • 深圳 | [Groove the Bluesy Bay](groove-the-bluesy-bay.md) | 湾区布鲁斯节 |
 | 03-20 ~ 22 | [重庆](by_city.md#chongqing) | [Lindy Hotpot](lindy-hotpot.md) | 火锅林迪节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-03-&date_ends=2026-03-){ target='_blank' }
@@ -34,8 +36,8 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 |  | [上海](by_city.md#shanghai) | [Balboa Spring Camp](balboa-spring-camp.md) |  |
-|  | [四川](by_city.md#sichuan) • 成都 | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
 |  | [上海](by_city.md#shanghai) | [Shanghai Blues Camp](shanghai-blues-camp.md) | 上海布鲁斯训练营 |
+| 04-10 ~ 12 | [四川](by_city.md#sichuan) • 成都 | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-04-&date_ends=2026-04-){ target='_blank' }
 
 ## 五月
@@ -44,10 +46,9 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 | --- | --- | --- | --- |
 |  | [北京](by_city.md#beijing) | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 |  | [北京](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
-|  | [广东](by_city.md#guangdong) • 广州 | [Canton Swing Festival](canton-swing-festival.md) | 粤色摇摆 |
 |  | [上海](by_city.md#shanghai) | [Jumpin' Swing](jumpin-swing.md) |  |
-|  | [上海](by_city.md#shanghai) | [Jumpin’ Swing](jumping-swing.md) |  |
-|  | [江苏](by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
+| 05-01 ~ 03 | [上海](by_city.md#shanghai) | [Baliday](baliday.md) |  |
+| 05-15 ~ 17 | [江苏](by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-05-&date_ends=2026-05-){ target='_blank' }
 
 ## 六月
@@ -96,8 +97,8 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
 |  | [广东](by_city.md#guangdong) • 佛山 | [Hop the Bay](hop-the-bay.md) | 湾区摇摆大会 |
-|  | [上海](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend.md) |  |
 |  | [天津](by_city.md#tianjin) | [Swing to the Stars](swing-to-the-stars.md) | 天津林迪舞节 |
+| 10-02 ~ 04 | [上海](by_city.md#shanghai) | [Shanghai Balboa Weekend](shanghai-balboa-weekend.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-10-&date_ends=2026-10-){ target='_blank' }
 
 ## 十一月

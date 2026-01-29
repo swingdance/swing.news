@@ -1,27 +1,25 @@
 ---
 title: Bouncy Chengdu
-description: ""
+description: "2026-04-10 ~ 2026-04-12"
 ---
 
 # Bouncy Chengdu 
 
 :fontawesome-solid-ticket:{ .ky_list_leading_icon } 妖艳儿摇摆节  
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04-10 ~ 2026-04-12  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 成都  
 
 !!! info "组织方"
 
     [Hi Swing](https://swing.kids/cn/hi-swing) • 摇摆成都  
 
-## 联系
+!!! quote "活动详情链接"
 
-
----
-
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/Py70j1XSL4jzZcmVYS4Saw){ target='_blank' }
+    [https://mp.weixin.qq.com/s/586xN2cgqi3Z1KuWMoJskQ](https://mp.weixin.qq.com/s/586xN2cgqi3Z1KuWMoJskQ){ target='_blank' }
 
 ---
 
+[添加到日历](https://swing.news/ics/zh-Hans/cn/bouncy-chengdu.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -29,7 +27,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2025-02-15 06:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:49 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

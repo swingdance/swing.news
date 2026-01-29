@@ -1,5 +1,7 @@
 ---
 status: timeline
+hide:
+  - navigation
 ---
 
 
@@ -13,23 +15,23 @@ status: timeline
 |  | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Swing It Berlin!](de/swing-it-berlin.md) |  |
 |  | [法国](fr/index.md) | [图卢兹](fr/by_city.md#toulouse) | [The Battle](fr/the-battle.md) |  |
 |  | [法国](fr/index.md) | [图尔](fr/by_city.md#tours) | [Tours’n Swing](fr/tours-n-swing.md) |  |
-|  | [香港](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest.md) |  |
 |  | [意大利](it/index.md) | [皮斯托亚](it/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Crazy Blues](it/crazy-blues.md) |  |
 |  | [意大利](it/index.md) | [佛罗伦萨](it/by_city.md#florence) | [Keep On Swingin’](it/keep-on-swingin.md) |  |
 |  | [意大利](it/index.md) | [米兰](it/by_city.md#milan) | [Milan Balboa Weekend](it/milan-balboa-weekend.md) |  |
 |  | [意大利](it/index.md) | [皮斯托亚](it/by_city.md#pistoia) • 蒙特卡蒂尼-泰尔梅 | [Tuscany Balboa Weekend](it/tuscany-balboa-weekend.md) |  |
 |  | [波兰](pl/index.md) | [弗罗茨瓦夫](pl/by_city.md#wroclaw) | [Lindy Szau’s Birthday Jam](pl/lindy-szaus-birthday-jam.md) |  |
-|  | [土耳其](tr/index.md) | [伊斯坦布尔](tr/by_city.md#istanbul) | [Jumpin' at Istanbul](tr/jumpin-at-istanbul.md) |  |
 |  | [台湾](tw/index.md) | [台北](tw/by_city.md#taipei) | [Cheek to Cheek Swing Festival](tw/cheek-to-cheek-swing-festival.md) |  |
 |  | [英国](uk/index.md) | [利物浦](uk/by_city.md#liverpool) | [Lindy In The Sky with Diamonds](uk/lindy-in-the-sky-with-diamonds.md) |  |
 |  | [美国](us/index.md) | [加利福尼亚州](us/by_city.md#california) • 洛杉矶 | [California Balboa Classic](us/california-balboa-classic.md) |  |
+| 01-16 ~ 18 | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 深圳 | [Down South Camp Meeting](cn/down-south-camp-meeting.md) |  |
+| 01-16 ~ 18 | [土耳其](tr/index.md) | [伊斯坦布尔](tr/by_city.md#istanbul) | [Jumpin' at Istanbul](tr/jumpin-at-istanbul.md) |  |
+| 01-31 ~ 02-08 | [泰国](th/index.md) | [巴蜀府](th/by_city.md#prachuap-khiri-khan) • 华欣 | [Breezy Balboa](th/breezy-balboa.md) |  |
 
 ## 二月
 
 | 日期 | 地区 | 城市 | 活动 | |
 | --- | --- | --- | --- | --- |
 |  | [瑞士](ch/index.md) | [苏黎世](ch/by_city.md#zurich) | [Bal-Inspiration](ch/bal-inspiration.md) |  |
-|  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [All Balboa Exchange](cn/all-balboa-exchange.md) |  |
 |  | [中国](cn/index.md) | [天津](cn/by_city.md#tianjin) | [It's Solo King](cn/its-solo-king.md) |  |
 |  | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Berlin Balboa Weekend](de/berlin-balboa-weekend.md) |  |
 |  | [德国](de/index.md) | [巴伐利亚自由州](de/by_city.md#bavaria) • 慕尼黑 | [Rock That Swing Festival](de/rock-that-swing-festival.md) |  |
@@ -38,8 +40,8 @@ status: timeline
 |  | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Blues Alive](kr/blues-alive.md) |  |
 |  | [挪威](no/index.md) | [卑尔根](no/by_city.md#bergen) | [Scandinavian Shuffle](no/scandinavian-shuffle.md) |  |
 |  | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [Winter Jump](no/winter-jump.md) |  |
-|  | [泰国](th/index.md) | [巴蜀府](th/by_city.md#prachuap-khiri-khan) • 华欣 | [Breezy Balboa](th/breezy-balboa.md) |  |
 |  | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 奥斯汀 | [Hot Rhythm Holiday](us/hot-rhythm-holiday.md) |  |
+| 02-20 ~ 23 | [俄罗斯](ru/index.md) | [圣彼得堡](ru/by_city.md#st.-petersburg) | [Fast Pete](ru/fast-pete.md) |  |
 
 ## 三月
 
@@ -49,6 +51,8 @@ status: timeline
 |  | [法国](fr/index.md) | [波尔多](fr/by_city.md#bordeaux) | [Swing Art Festival](fr/swing-art-festival.md) |  |
 |  | [意大利](it/index.md) | [罗马](it/by_city.md#rome) | [Roma Balboa Weekend](it/roma-balboa-weekend.md) |  |
 |  | [美国](us/index.md) | [德克萨斯州](us/by_city.md#texas) • 休斯顿 | [Lindyfest](us/lindyfest.md) |  |
+| 03-06 ~ 08 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [All Balboa Exchange](cn/all-balboa-exchange.md) |  |
+| 03-06 ~ 08 | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 广州 | [Canton Swing Festival](cn/canton-swing-festival.md) | 粤色摇摆 |
 | 03-13 ~ 15 | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 深圳 | [Groove the Bluesy Bay](cn/groove-the-bluesy-bay.md) | 湾区布鲁斯节 |
 | 03-20 ~ 22 | [中国](cn/index.md) | [重庆](cn/by_city.md#chongqing) | [Lindy Hotpot](cn/lindy-hotpot.md) | 火锅林迪节 |
 
@@ -59,7 +63,6 @@ status: timeline
 |  | [澳大利亚](au/index.md) | [西澳州](au/by_city.md#western-australia) • 珀斯 | [Hullabaloo](au/hullabaloo.md) |  |
 |  | [澳大利亚](au/index.md) | [坎培拉](au/by_city.md#canberra) | [Jurassic Bal](au/jurassic-bal.md) |  |
 |  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Balboa Spring Camp](cn/balboa-spring-camp.md) |  |
-|  | [中国](cn/index.md) | [四川](cn/by_city.md#sichuan) • 成都 | [Bouncy Chengdu](cn/bouncy-chengdu.md) | 妖艳儿摇摆节 |
 |  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Blues Camp](cn/shanghai-blues-camp.md) | 上海布鲁斯训练营 |
 |  | [德国](de/index.md) | [巴登-符腾堡州](de/by_city.md#baden-wurttemberg) • 蒂宾根 | [Swingcake Tubingen](de/swingcake-tubingen.md) |  |
 |  | [西班牙](es/index.md) | [塞维利亚](es/by_city.md#sevilla) | [Sevilla Swing Festival](es/sevilla-swing-festival.md) |  |
@@ -68,6 +71,8 @@ status: timeline
 |  | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Camp Swing It](kr/camp-swing-it.md) |  |
 |  | [挪威](no/index.md) | [特隆赫姆](no/by_city.md#trondheim) | [Bal’heim](no/bal-heim.md) |  |
 |  | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 纽约市 | [Bal Week](us/bal-week.md) |  |
+| 04-10 ~ 12 | [中国](cn/index.md) | [四川](cn/by_city.md#sichuan) • 成都 | [Bouncy Chengdu](cn/bouncy-chengdu.md) | 妖艳儿摇摆节 |
+| 04-24 ~ 26 | [香港](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest.md) | 港畔摇摆节 |
 
 ## 五月
 
@@ -77,13 +82,12 @@ status: timeline
 |  | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 维多利亚 | [Victoria Lindy Exchange](ca/victoria-lindy-exchange.md) |  |
 |  | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Beijing Balboa Fever](cn/beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 |  | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Camp California Weekend](cn/camp-california-weekend.md) | 端午加州训练营 |
-|  | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 广州 | [Canton Swing Festival](cn/canton-swing-festival.md) | 粤色摇摆 |
 |  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Jumpin' Swing](cn/jumpin-swing.md) |  |
-|  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Jumpin’ Swing](cn/jumping-swing.md) |  |
-|  | [中国](cn/index.md) | [江苏](cn/by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](cn/nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 |  | [意大利](it/index.md) | [西尔维·玛丽娜](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest.md) |  |
 |  | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm.md) |  |
 |  | [美国](us/index.md) | [印第安纳州](us/by_city.md#indiana) • 印第安纳波利斯 | [Back Home Again](us/back-home-again.md) |  |
+| 05-01 ~ 03 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Baliday](cn/baliday.md) |  |
+| 05-15 ~ 17 | [中国](cn/index.md) | [江苏](cn/by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](cn/nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 
 ## 六月
 
@@ -200,7 +204,6 @@ status: timeline
 |  | [荷兰](nl/index.md) | [海牙](nl/by_city.md#the-hague) | [The Mess Around](nl/the-mess-around.md) |  |
 |  | [挪威](no/index.md) | [奥斯陆](no/by_city.md#oslo) | [O’slow](no/o-slow.md) |  |
 |  | [波兰](pl/index.md) | [克拉科夫](pl/by_city.md#krakow) | [Rock the Balboa!](pl/rock-the-balboa.md) |  |
-|  | [俄罗斯](ru/index.md) | [莫斯科](ru/by_city.md#moscow) | [Moscow Comes Around](ru/moscow-comes-around.md) |  |
 |  | [瑞典](se/index.md) | [哥特堡](se/by_city.md#gothenburg) | [Gothenburg Queer Lindy Festival](se/gothenburg-queer-lindy-festival.md) |  |
 |  | [斯洛文尼亚](si/index.md) | [卢布尔雅那](si/by_city.md#ljubljana) | [HaniBal Balboa Festival](si/haniBal-balboa-festival.md) |  |
 |  | [斯洛文尼亚](si/index.md) | [采列](si/by_city.md#celje) | [Vintage Swing Festival](si/vintage-swing-festival.md) |  |
@@ -218,6 +221,7 @@ status: timeline
 |  | [美国](us/index.md) | [科罗拉多州](us/by_city.md#colorado) • 丹佛 | [Lindy on the Rocks](us/lindy-on-the-rocks.md) |  |
 |  | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 纽约市 | [New York Lindy Exchange](us/new-york-lindy-exchange.md) |  |
 |  | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 水牛城 | [Rhythm Shuffle](us/rhythm-shuffle.md) |  |
+| 09-11 ~ 13 | [俄罗斯](ru/index.md) | [莫斯科](ru/by_city.md#moscow) | [Moscow Comes Around](ru/moscow-comes-around.md) |  |
 
 ## 十月
 
@@ -229,7 +233,6 @@ status: timeline
 |  | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 温哥华 | [Vancouver Balboa Mini Fest](ca/vancouver-balboa-mini-fest.md) |  |
 |  | [智利](cl/index.md) | [圣地亚哥](cl/by_city.md#santiago) | [Lindy poh!](cl/lindy-poh.md) |  |
 |  | [中国](cn/index.md) | [广东](cn/by_city.md#guangdong) • 佛山 | [Hop the Bay](cn/hop-the-bay.md) | 湾区摇摆大会 |
-|  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Balboa Weekend](cn/shanghai-balboa-weekend.md) |  |
 |  | [中国](cn/index.md) | [天津](cn/by_city.md#tianjin) | [Swing to the Stars](cn/swing-to-the-stars.md) | 天津林迪舞节 |
 |  | [捷克](cz/index.md) | [布拉格](cz/by_city.md#prague) | [Slow Bal Love](cz/slow-bal-love.md) |  |
 |  | [德国](de/index.md) | [柏林](de/by_city.md#berlin) | [Are You Syncopated?!](de/are-you-syncopated.md) |  |
@@ -268,6 +271,7 @@ status: timeline
 |  | [美国](us/index.md) | [密苏里州](us/by_city.md#missouri) • 圣路易斯 | [STL Getdown](us/stl-getdown.md) |  |
 |  | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 纽约市 | [The American Lindy Hop Championships](us/the-american-lindy-hop-championships.md) |  |
 |  | [美国](us/index.md) | [印第安纳州](us/by_city.md#indiana) • 西拉斐特 | [Whistle Stop](us/whistle-stop.md) |  |
+| 10-02 ~ 04 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Shanghai Balboa Weekend](cn/shanghai-balboa-weekend.md) |  |
 
 ## 十一月
 
