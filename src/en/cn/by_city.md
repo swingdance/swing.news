@@ -12,8 +12,8 @@ description: "Swing Dance events in China (Grouped by City)."
 | Date | Event | |
 | --- | --- | --- |
 | Jan | [Beijing Balboa Travel](beijing-balboa-travel.md) | 北京巴尔博亚之旅 |
-| May | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 | May | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
+| 2026-05-29 ~ 31 | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 | Jun | [Dragon Boat Swing Camp](dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 | Jul | [Bal In Beijing](bal-in-beijing.md) |  |
 | Aug | [Jazz Do It](jazz-do-it.md) |  |
@@ -144,6 +144,17 @@ description: "Swing Dance events in China (Grouped by City)."
 | Feb | [It's Solo King](its-solo-king.md) |  |
 | Oct | [Swing to the Stars](swing-to-the-stars.md) | 天津林迪舞节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Tianjin&city=Tianjin&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
+
+---
+
+## <a id=xinjiang></a>[Xinjiang](#xinjiang) { #xinjiang }
+
+### <a id=urumqi></a>Urumqi { #urumqi }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2026-06-19 ~ 21 | [Urumqi Swing Exchange](urumqi-swing-exchange.md) |  |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Xinjiang&city=Urumqi&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
 ---
 

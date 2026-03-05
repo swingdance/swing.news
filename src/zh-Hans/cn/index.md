@@ -44,11 +44,11 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-|  | [北京](by_city.md#beijing) | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 |  | [北京](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
 |  | [上海](by_city.md#shanghai) | [Jumpin' Swing](jumpin-swing.md) |  |
 | 05-01 ~ 03 | [上海](by_city.md#shanghai) | [Baliday](baliday.md) |  |
 | 05-15 ~ 17 | [江苏](by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
+| 05-29 ~ 31 | [北京](by_city.md#beijing) | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-05-&date_ends=2026-05-){ target='_blank' }
 
 ## 六月
@@ -59,6 +59,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 |  | [北京](by_city.md#beijing) | [Dragon Boat Swing Camp](dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 |  | [上海](by_city.md#shanghai) | [Jump for Joy](jump-for-joy.md) |  |
 |  | [云南](by_city.md#yunnan) • 大理 | [Swing in Dalifornia](swing-in-dalifornia.md) | 大理福尼亚 |
+| 06-19 ~ 21 | [新疆](by_city.md#xinjiang) • 乌鲁木齐 | [Urumqi Swing Exchange](urumqi-swing-exchange.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-06-&date_ends=2026-06-){ target='_blank' }
 
 ## 七月

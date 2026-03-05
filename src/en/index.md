@@ -80,7 +80,6 @@ hide:
 | --- | --- | --- | --- | --- |
 |  | [Australia](au/index.md) | [Queensland](au/by_city.md#queensland) • Brisbane | [Brisbane Swing Thing](au/brisbane-swing-thing.md) |  |
 |  | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Victoria Lindy Exchange](ca/victoria-lindy-exchange.md) |  |
-|  | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Beijing Balboa Fever](cn/beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 |  | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Camp California Weekend](cn/camp-california-weekend.md) | 端午加州训练营 |
 |  | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Jumpin' Swing](cn/jumpin-swing.md) |  |
 |  | [Italy](it/index.md) | [Silvi Marina](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest.md) |  |
@@ -88,6 +87,7 @@ hide:
 |  | [United States](us/index.md) | [Indiana](us/by_city.md#indiana) • Indianapolis | [Back Home Again](us/back-home-again.md) |  |
 | 05-01 ~ 03 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Baliday](cn/baliday.md) |  |
 | 05-15 ~ 17 | [China](cn/index.md) | [Jiangsu](cn/by_city.md#jiangsu) • Nanjing | [Nanjing Lindy Festival](cn/nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
+| 05-29 ~ 31 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Beijing Balboa Fever](cn/beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 
 ## Jun
 
@@ -103,6 +103,7 @@ hide:
 |  | [Japan](jp/index.md) | [Tokyo](jp/by_city.md#tokyo) | [Tomodachi Swing](jp/tomodachi-swing.md) |  |
 |  | [South Korea](kr/index.md) | [Seoul](kr/by_city.md#seoul) | [Rhythm Korea](kr/rhythm-korea.md) | 리듬코리아 |
 |  | [United States](us/index.md) | [California](us/by_city.md#california) • San Diego | [San Diego Balboa and Lindy Exchange](us/san-diego-balboa-and-lindy-exchange.md) |  |
+| 06-19 ~ 21 | [China](cn/index.md) | [Xinjiang](cn/by_city.md#xinjiang) • Urumqi | [Urumqi Swing Exchange](cn/urumqi-swing-exchange.md) |  |
 
 ## Jul
 
