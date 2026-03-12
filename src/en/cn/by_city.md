@@ -91,6 +91,13 @@ description: "Swing Dance events in China (Grouped by City)."
 | 2026-05-15 ~ 17 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Jiangsu&city=Nanjing&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 
+### <a id=suzhou></a>Suzhou { #suzhou }
+
+| Date | Event | |
+| --- | --- | --- |
+| 2026-04-17 ~ 19 | [Suzhou Lindy Festival](suzhou-lindy-festival.md) | 苏州林迪舞节 |
+| [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Jiangsu&city=Suzhou&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
+
 ---
 
 ## <a id=jiangxi></a>[Jiangxi](#jiangxi) { #jiangxi }
@@ -113,8 +120,8 @@ description: "Swing Dance events in China (Grouped by City)."
 | Apr | [Shanghai Blues Camp](shanghai-blues-camp.md) | 上海布鲁斯训练营 |
 | May | [Jumpin' Swing](jumpin-swing.md) |  |
 | 2026-05-01 ~ 03 | [Baliday](baliday.md) |  |
-| Jun | [Balboa Festival](balboa-festival.md) |  |
 | Jun | [Jump for Joy](jump-for-joy.md) |  |
+| 2026-06-26 ~ 28 | [Balboa Festival](balboa-festival.md) |  |
 | Jul | [Balboa Festival Shanghai](balboa-festival-shanghai.md) |  |
 | Aug | [Blues Heat](blues-heat.md) | 热能蓝调文化节 |
 | Aug | [Swing Feast](swing-feast.md) | 摇摆盛宴 |

@@ -38,6 +38,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 |  | [上海](by_city.md#shanghai) | [Balboa Spring Camp](balboa-spring-camp.md) |  |
 |  | [上海](by_city.md#shanghai) | [Shanghai Blues Camp](shanghai-blues-camp.md) | 上海布鲁斯训练营 |
 | 04-10 ~ 12 | [四川](by_city.md#sichuan) • 成都 | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
+| 04-17 ~ 19 | [江苏](by_city.md#jiangsu) • 苏州 | [Suzhou Lindy Festival](suzhou-lindy-festival.md) | 苏州林迪舞节 |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-04-&date_ends=2026-04-){ target='_blank' }
 
 ## 五月
@@ -55,11 +56,11 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-|  | [上海](by_city.md#shanghai) | [Balboa Festival](balboa-festival.md) |  |
 |  | [北京](by_city.md#beijing) | [Dragon Boat Swing Camp](dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 |  | [上海](by_city.md#shanghai) | [Jump for Joy](jump-for-joy.md) |  |
 |  | [云南](by_city.md#yunnan) • 大理 | [Swing in Dalifornia](swing-in-dalifornia.md) | 大理福尼亚 |
 | 06-19 ~ 21 | [新疆](by_city.md#xinjiang) • 乌鲁木齐 | [Urumqi Swing Exchange](urumqi-swing-exchange.md) |  |
+| 06-26 ~ 28 | [上海](by_city.md#shanghai) | [Balboa Festival](balboa-festival.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-06-&date_ends=2026-06-){ target='_blank' }
 
 ## 七月

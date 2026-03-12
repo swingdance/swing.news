@@ -72,6 +72,7 @@ hide:
 |  | [Norway](no/index.md) | [Trondheim](no/by_city.md#trondheim) | [Bal’heim](no/bal-heim.md) |  |
 |  | [United States](us/index.md) | [New York](us/by_city.md#new-york) • New York City | [Bal Week](us/bal-week.md) |  |
 | 04-10 ~ 12 | [China](cn/index.md) | [Sichuan](cn/by_city.md#sichuan) • Chengdu | [Bouncy Chengdu](cn/bouncy-chengdu.md) | 妖艳儿摇摆节 |
+| 04-17 ~ 19 | [China](cn/index.md) | [Jiangsu](cn/by_city.md#jiangsu) • Suzhou | [Suzhou Lindy Festival](cn/suzhou-lindy-festival.md) | 苏州林迪舞节 |
 | 04-24 ~ 26 | [Hong Kong](hk/index.md) | [HK](hk/by_city.md#hk) | [Harbourside Swing Fest](hk/harbourside-swing-fest.md) | 港畔摇摆节 |
 
 ## May
@@ -93,7 +94,6 @@ hide:
 
 | Date | Region | City | Event | |
 | --- | --- | --- | --- | --- |
-|  | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Balboa Festival](cn/balboa-festival.md) |  |
 |  | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Dragon Boat Swing Camp](cn/dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 |  | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Jump for Joy](cn/jump-for-joy.md) |  |
 |  | [China](cn/index.md) | [Yunnan](cn/by_city.md#yunnan) • Dali | [Swing in Dalifornia](cn/swing-in-dalifornia.md) | 大理福尼亚 |
@@ -104,6 +104,7 @@ hide:
 |  | [South Korea](kr/index.md) | [Seoul](kr/by_city.md#seoul) | [Rhythm Korea](kr/rhythm-korea.md) | 리듬코리아 |
 |  | [United States](us/index.md) | [California](us/by_city.md#california) • San Diego | [San Diego Balboa and Lindy Exchange](us/san-diego-balboa-and-lindy-exchange.md) |  |
 | 06-19 ~ 21 | [China](cn/index.md) | [Xinjiang](cn/by_city.md#xinjiang) • Urumqi | [Urumqi Swing Exchange](cn/urumqi-swing-exchange.md) |  |
+| 06-26 ~ 28 | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Balboa Festival](cn/balboa-festival.md) |  |
 
 ## Jul
 

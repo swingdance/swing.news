@@ -38,6 +38,7 @@ description: "Swing Dance events in China (Timeline)."
 |  | [Shanghai](by_city.md#shanghai) | [Balboa Spring Camp](balboa-spring-camp.md) |  |
 |  | [Shanghai](by_city.md#shanghai) | [Shanghai Blues Camp](shanghai-blues-camp.md) | 上海布鲁斯训练营 |
 | 04-10 ~ 12 | [Sichuan](by_city.md#sichuan) • Chengdu | [Bouncy Chengdu](bouncy-chengdu.md) | 妖艳儿摇摆节 |
+| 04-17 ~ 19 | [Jiangsu](by_city.md#jiangsu) • Suzhou | [Suzhou Lindy Festival](suzhou-lindy-festival.md) | 苏州林迪舞节 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-04-&date_ends=2026-04-){ target='_blank' }
 
 ## May
@@ -55,11 +56,11 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-|  | [Shanghai](by_city.md#shanghai) | [Balboa Festival](balboa-festival.md) |  |
 |  | [Beijing](by_city.md#beijing) | [Dragon Boat Swing Camp](dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 |  | [Shanghai](by_city.md#shanghai) | [Jump for Joy](jump-for-joy.md) |  |
 |  | [Yunnan](by_city.md#yunnan) • Dali | [Swing in Dalifornia](swing-in-dalifornia.md) | 大理福尼亚 |
 | 06-19 ~ 21 | [Xinjiang](by_city.md#xinjiang) • Urumqi | [Urumqi Swing Exchange](urumqi-swing-exchange.md) |  |
+| 06-26 ~ 28 | [Shanghai](by_city.md#shanghai) | [Balboa Festival](balboa-festival.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-06-&date_ends=2026-06-){ target='_blank' }
 
 ## Jul
