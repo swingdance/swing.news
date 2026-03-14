@@ -15,6 +15,7 @@ description: "在韩国举办的摇摆舞活动（以城市划分）。"
 | 四月 | [Asia Balboa eXchange](asia-balboa-exchange.md) |  |
 | 四月 | [Camp Swing It](camp-swing-it.md) |  |
 | 六月 | [Rhythm Korea](rhythm-korea.md) | 리듬코리아 |
+| 2026-06-05 ~ 07 | [Pulse In Seoul](pulse-in-seoul.md) | 펄스인서울 |
 | 七月 | [Champions Cup Korea](champions-cup-korea.md) |  |
 | 八月 | [BAL & HOP](bal-hop.md) |  |
 | 十月 | [Jump to Berlin](jump-to-berlin.md) |  |

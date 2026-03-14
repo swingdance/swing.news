@@ -15,6 +15,7 @@ description: "Swing Dance events in South Korea (Grouped by City)."
 | Apr | [Asia Balboa eXchange](asia-balboa-exchange.md) |  |
 | Apr | [Camp Swing It](camp-swing-it.md) |  |
 | Jun | [Rhythm Korea](rhythm-korea.md) | 리듬코리아 |
+| 2026-06-05 ~ 07 | [Pulse In Seoul](pulse-in-seoul.md) | 펄스인서울 |
 | Jul | [Champions Cup Korea](champions-cup-korea.md) |  |
 | Aug | [BAL & HOP](bal-hop.md) |  |
 | Oct | [Jump to Berlin](jump-to-berlin.md) |  |

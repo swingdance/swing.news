@@ -26,6 +26,7 @@ description: "Swing Dance events in South Korea (Timeline)."
 | Date | City | Event | |
 | --- | --- | --- | --- |
 |  | [Seoul](by_city.md#seoul) | [Rhythm Korea](rhythm-korea.md) | 리듬코리아 |
+| 06-05 ~ 07 | [Seoul](by_city.md#seoul) | [Pulse In Seoul](pulse-in-seoul.md) | 펄스인서울 |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fkr%5D%20%3CName%3E&region=kr&province=&city=&org_id=&date_starts=2026-06-&date_ends=2026-06-){ target='_blank' }
 
 ## Jul

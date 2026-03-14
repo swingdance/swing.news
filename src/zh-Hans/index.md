@@ -103,6 +103,7 @@ hide:
 |  | [日本](jp/index.md) | [东京](jp/by_city.md#tokyo) | [Tomodachi Swing](jp/tomodachi-swing.md) |  |
 |  | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Rhythm Korea](kr/rhythm-korea.md) | 리듬코리아 |
 |  | [美国](us/index.md) | [加利福尼亚州](us/by_city.md#california) • 圣地亚哥 | [San Diego Balboa and Lindy Exchange](us/san-diego-balboa-and-lindy-exchange.md) |  |
+| 06-05 ~ 07 | [韩国](kr/index.md) | [首尔](kr/by_city.md#seoul) | [Pulse In Seoul](kr/pulse-in-seoul.md) | 펄스인서울 |
 | 06-19 ~ 21 | [中国](cn/index.md) | [新疆](cn/by_city.md#xinjiang) • 乌鲁木齐 | [Urumqi Swing Exchange](cn/urumqi-swing-exchange.md) |  |
 | 06-26 ~ 28 | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Balboa Festival](cn/balboa-festival.md) |  |
 
