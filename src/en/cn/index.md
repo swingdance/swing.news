@@ -45,7 +45,6 @@ description: "Swing Dance events in China (Timeline)."
 
 | Date | City | Event | |
 | --- | --- | --- | --- |
-|  | [Beijing](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
 |  | [Shanghai](by_city.md#shanghai) | [Jumpin' Swing](jumpin-swing.md) |  |
 | 05-01 ~ 03 | [Shanghai](by_city.md#shanghai) | [Baliday](baliday.md) |  |
 | 05-15 ~ 17 | [Jiangsu](by_city.md#jiangsu) • Nanjing | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
@@ -78,9 +77,9 @@ description: "Swing Dance events in China (Timeline)."
 | --- | --- | --- | --- |
 |  | [Shanghai](by_city.md#shanghai) | [Blues Heat](blues-heat.md) | 热能蓝调文化节 |
 |  | [Jiangxi](by_city.md#jiangxi) • Jingdezhen | [Blues in Green](blues-in-green.md) | 小罗老师布鲁斯工作坊 |
-|  | [Beijing](by_city.md#beijing) | [Jazz Do It](jazz-do-it.md) |  |
 |  | [Shanghai](by_city.md#shanghai) | [Swing Feast](swing-feast.md) | 摇摆盛宴 |
 |  | [Zhejiang](by_city.md#zhejiang) • Hangzhou | [Westlake Swing Carnival](westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
+| 08-07 ~ 09 | [Beijing](by_city.md#beijing) | [Jazz Do It](jazz-do-it.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-08-&date_ends=2026-08-){ target='_blank' }
 
 ## Sep
@@ -92,6 +91,7 @@ description: "Swing Dance events in China (Timeline)."
 |  | [Fujian](by_city.md#fujian) • Xiamen | [Island Swing](island-swing.md) | 岛与摇摆 |
 |  | [Shanghai](by_city.md#shanghai) | [Swing Paramount](swing-paramount.md) | 摇摆百乐门 |
 |  | [Shanghai](by_city.md#shanghai) | [Women's Jazzination](womens-jazzination.md) | 爵了姐妹 |
+| 09-11 ~ 14 | [Beijing](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-09-&date_ends=2026-09-){ target='_blank' }
 
 ## Oct

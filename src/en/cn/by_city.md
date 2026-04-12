@@ -12,13 +12,13 @@ description: "Swing Dance events in China (Grouped by City)."
 | Date | Event | |
 | --- | --- | --- |
 | Jan | [Beijing Balboa Travel](beijing-balboa-travel.md) | 北京巴尔博亚之旅 |
-| May | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
 | 2026-05-29 ~ 31 | [Beijing Balboa Fever](beijing-balboa-fever.md) | 北京巴尔博亚热旋风交流节 |
 | Jun | [Dragon Boat Swing Camp](dragon-boat-swing-camp.md) | 龙舟摇摆训练营 |
 | Jul | [Bal In Beijing](bal-in-beijing.md) |  |
-| Aug | [Jazz Do It](jazz-do-it.md) |  |
+| 2026-08-07 ~ 09 | [Jazz Do It](jazz-do-it.md) |  |
 | Sep | [Beijing Blues Bush](beijing-blues-bush.md) |  |
 | Sep | [Golden Bal-Week](golden-bal-week.md) | 巴尔博亚金秋舞会 |
+| 2026-09-11 ~ 14 | [Camp California Weekend](camp-california-weekend.md) |  |
 | Nov | [Swingtime Ball](swingtime-ball.md) |  |
 | [+ Event](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=Beijing&city=Beijing&org_id=&date_starts=2026-&date_ends=2026-){ target='_blank' }
 

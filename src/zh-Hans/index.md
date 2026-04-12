@@ -81,7 +81,6 @@ hide:
 | --- | --- | --- | --- | --- |
 |  | [澳大利亚](au/index.md) | [昆士兰州](au/by_city.md#queensland) • 布里斯本 | [Brisbane Swing Thing](au/brisbane-swing-thing.md) |  |
 |  | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 维多利亚 | [Victoria Lindy Exchange](ca/victoria-lindy-exchange.md) |  |
-|  | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Camp California Weekend](cn/camp-california-weekend.md) | 端午加州训练营 |
 |  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Jumpin' Swing](cn/jumpin-swing.md) |  |
 |  | [意大利](it/index.md) | [西尔维·玛丽娜](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest.md) |  |
 |  | [立陶宛](lt/index.md) | [维尔纽斯](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm.md) |  |
@@ -142,7 +141,6 @@ hide:
 |  | [加拿大](ca/index.md) | [不列颠哥伦比亚省](ca/by_city.md#british-columbia) • 温哥华 | [Rhythm City Mess Around](ca/rhythm-city-mess-around.md) |  |
 |  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat.md) | 热能蓝调文化节 |
 |  | [中国](cn/index.md) | [江西](cn/by_city.md#jiangxi) • 景德镇 | [Blues in Green](cn/blues-in-green.md) | 小罗老师布鲁斯工作坊 |
-|  | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it.md) |  |
 |  | [中国](cn/index.md) | [上海](cn/by_city.md#shanghai) | [Swing Feast](cn/swing-feast.md) | 摇摆盛宴 |
 |  | [中国](cn/index.md) | [浙江](cn/by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](cn/westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
 |  | [捷克](cz/index.md) | [布拉格](cz/by_city.md#prague) | [Bal Love](cz/bal-love.md) |  |
@@ -169,6 +167,7 @@ hide:
 |  | [美国](us/index.md) | [亚利桑那州](us/by_city.md#arizona) • 梅萨 | [Summer Swing Fest](us/summer-swing-fest.md) |  |
 |  | [美国](us/index.md) | [新罕布什尔州](us/by_city.md#new-hampshire) • 希伯伦 | [Swing Out New Hampshire](us/swing-out-new-hampshire.md) |  |
 |  | [美国](us/index.md) | [明尼苏达州](us/by_city.md#minnesota) • 明尼阿波利斯 | [The Uptown Swingout](us/the-uptown-swingout.md) |  |
+| 08-07 ~ 09 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it.md) |  |
 
 ## 九月
 
@@ -225,6 +224,7 @@ hide:
 |  | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 纽约市 | [New York Lindy Exchange](us/new-york-lindy-exchange.md) |  |
 |  | [美国](us/index.md) | [纽约州](us/by_city.md#new-york) • 水牛城 | [Rhythm Shuffle](us/rhythm-shuffle.md) |  |
 | 09-11 ~ 13 | [俄罗斯](ru/index.md) | [莫斯科](ru/by_city.md#moscow) | [Moscow Comes Around](ru/moscow-comes-around.md) |  |
+| 09-11 ~ 14 | [中国](cn/index.md) | [北京](cn/by_city.md#beijing) | [Camp California Weekend](cn/camp-california-weekend.md) |  |
 
 ## 十月
 

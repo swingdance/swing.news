@@ -81,7 +81,6 @@ hide:
 | --- | --- | --- | --- | --- |
 |  | [Australia](au/index.md) | [Queensland](au/by_city.md#queensland) • Brisbane | [Brisbane Swing Thing](au/brisbane-swing-thing.md) |  |
 |  | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Victoria | [Victoria Lindy Exchange](ca/victoria-lindy-exchange.md) |  |
-|  | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Camp California Weekend](cn/camp-california-weekend.md) | 端午加州训练营 |
 |  | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Jumpin' Swing](cn/jumpin-swing.md) |  |
 |  | [Italy](it/index.md) | [Silvi Marina](it/by_city.md#silvi-marina) | [Sunny Slide Swing Fest](it/sunny-slide-swing-fest.md) |  |
 |  | [Lithuania](lt/index.md) | [Vilnius](lt/by_city.md#vilnius) | [Uptown Rhythm](lt/uptown-rhythm.md) |  |
@@ -142,7 +141,6 @@ hide:
 |  | [Canada](ca/index.md) | [British Columbia](ca/by_city.md#british-columbia) • Vancouver | [Rhythm City Mess Around](ca/rhythm-city-mess-around.md) |  |
 |  | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Blues Heat](cn/blues-heat.md) | 热能蓝调文化节 |
 |  | [China](cn/index.md) | [Jiangxi](cn/by_city.md#jiangxi) • Jingdezhen | [Blues in Green](cn/blues-in-green.md) | 小罗老师布鲁斯工作坊 |
-|  | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it.md) |  |
 |  | [China](cn/index.md) | [Shanghai](cn/by_city.md#shanghai) | [Swing Feast](cn/swing-feast.md) | 摇摆盛宴 |
 |  | [China](cn/index.md) | [Zhejiang](cn/by_city.md#zhejiang) • Hangzhou | [Westlake Swing Carnival](cn/westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
 |  | [Czechia](cz/index.md) | [Prague](cz/by_city.md#prague) | [Bal Love](cz/bal-love.md) |  |
@@ -169,6 +167,7 @@ hide:
 |  | [United States](us/index.md) | [Arizona](us/by_city.md#arizona) • Mesa | [Summer Swing Fest](us/summer-swing-fest.md) |  |
 |  | [United States](us/index.md) | [New Hampshire](us/by_city.md#new-hampshire) • Hebron | [Swing Out New Hampshire](us/swing-out-new-hampshire.md) |  |
 |  | [United States](us/index.md) | [Minnesota](us/by_city.md#minnesota) • Minneapolis | [The Uptown Swingout](us/the-uptown-swingout.md) |  |
+| 08-07 ~ 09 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Jazz Do It](cn/jazz-do-it.md) |  |
 
 ## Sep
 
@@ -225,6 +224,7 @@ hide:
 |  | [United States](us/index.md) | [New York](us/by_city.md#new-york) • New York City | [New York Lindy Exchange](us/new-york-lindy-exchange.md) |  |
 |  | [United States](us/index.md) | [New York](us/by_city.md#new-york) • Buffalo | [Rhythm Shuffle](us/rhythm-shuffle.md) |  |
 | 09-11 ~ 13 | [Russia](ru/index.md) | [Moscow](ru/by_city.md#moscow) | [Moscow Comes Around](ru/moscow-comes-around.md) |  |
+| 09-11 ~ 14 | [China](cn/index.md) | [Beijing](cn/by_city.md#beijing) | [Camp California Weekend](cn/camp-california-weekend.md) |  |
 
 ## Oct
 

@@ -45,7 +45,6 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 
 | 日期 | 城市 | 活动 | |
 | --- | --- | --- | --- |
-|  | [北京](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) | 端午加州训练营 |
 |  | [上海](by_city.md#shanghai) | [Jumpin' Swing](jumpin-swing.md) |  |
 | 05-01 ~ 03 | [上海](by_city.md#shanghai) | [Baliday](baliday.md) |  |
 | 05-15 ~ 17 | [江苏](by_city.md#jiangsu) • 南京 | [Nanjing Lindy Festival](nanjing-lindy-festival.md) | 爵对莱斯 • 南京林迪节 |
@@ -78,9 +77,9 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 | --- | --- | --- | --- |
 |  | [上海](by_city.md#shanghai) | [Blues Heat](blues-heat.md) | 热能蓝调文化节 |
 |  | [江西](by_city.md#jiangxi) • 景德镇 | [Blues in Green](blues-in-green.md) | 小罗老师布鲁斯工作坊 |
-|  | [北京](by_city.md#beijing) | [Jazz Do It](jazz-do-it.md) |  |
 |  | [上海](by_city.md#shanghai) | [Swing Feast](swing-feast.md) | 摇摆盛宴 |
 |  | [浙江](by_city.md#zhejiang) • 杭州 | [Westlake Swing Carnival](westlake-swing-carnival.md) | 西湖摇摆嘉年华 |
+| 08-07 ~ 09 | [北京](by_city.md#beijing) | [Jazz Do It](jazz-do-it.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-08-&date_ends=2026-08-){ target='_blank' }
 
 ## 九月
@@ -92,6 +91,7 @@ description: "在中国举办的摇摆舞活动（时间线）。"
 |  | [福建](by_city.md#fujian) • 厦门 | [Island Swing](island-swing.md) | 岛与摇摆 |
 |  | [上海](by_city.md#shanghai) | [Swing Paramount](swing-paramount.md) | 摇摆百乐门 |
 |  | [上海](by_city.md#shanghai) | [Women's Jazzination](womens-jazzination.md) | 爵了姐妹 |
+| 09-11 ~ 14 | [北京](by_city.md#beijing) | [Camp California Weekend](camp-california-weekend.md) |  |
 | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5B2026%2Fcn%5D%20%3CName%3E&region=cn&province=&city=&org_id=&date_starts=2026-09-&date_ends=2026-09-){ target='_blank' }
 
 ## 十月
